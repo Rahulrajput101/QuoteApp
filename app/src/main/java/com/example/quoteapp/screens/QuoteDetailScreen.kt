@@ -67,7 +67,7 @@ fun QuoteDetailScreen(quote: Quote) {
 
                 Image(
                     imageVector = Icons.Filled.FormatQuote ,
-                    contentDescription = "Quotes description",
+                    contentDescription = "Quotes",
                     alignment = Alignment.TopStart,
                     modifier = Modifier
                         .size(40.dp)
