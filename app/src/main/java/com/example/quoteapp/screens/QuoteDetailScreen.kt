@@ -62,7 +62,7 @@ fun QuoteDetailScreen(quote: Quote) {
 
             Column(
                 verticalArrangement = Arrangement.Center,
-                modifier = Modifier.padding(16.dp,24.dp)
+                modifier = Modifier.padding(18.dp,26.dp)
             ) {
 
                 Image(
